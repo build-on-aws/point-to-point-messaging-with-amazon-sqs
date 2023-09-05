@@ -1,6 +1,6 @@
 ## Point-to-Point Messaging with Amazon SQS
 
-This is the companion repository for the tutorial Point-to-Point Messaging with Amazon SQS (URL pending).
+This is the companion repository for the tutorial [Point-to-Point Messaging with Amazon SQS](https://community.aws/tutorials/application-integration-patterns/point-to-point-messaging-with-sqs).
 
 Cloning this repository is not required for the tutorial, but it provides branches with individual milestones for each step:
 
